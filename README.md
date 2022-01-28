@@ -81,7 +81,7 @@ python3 horse_blinders_v6.py [inputfile.txt] [outputfile.txt]
 On startup, the splash page displays the logo, attributions, and a brief description of the purpose and functionality of the program.
   
   \
-![Splash Page](images/splashpage.png)  
+![Splash Page](./images/splashpage.png)  
   \
 Below this, the current active files are listed and the user is prompted for input. Enter the number of entries you plan to code during the current session and press enter. Then enter your initials or coder ID if applicable and press enter. This ID will be appended to the end of each line to help differentiate multiple coders.
 
@@ -101,7 +101,7 @@ An example of the coding view is given below.
 
 <br />
 
-![Coding Page](images/coding_page.png)  
+![Coding Page](./images/coding_page.png)  
 
 <br />
 
