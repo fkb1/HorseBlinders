@@ -37,7 +37,7 @@ source venv/bin/activate
 pip3 install colorama
 deactivate
 ```
-No further installation is necessary. Just download **`horse_blinders_v6.py`**.
+No further installation is necessary. Just download **`horse_blinders_v6.py`** and make sure it is in the same folder as the files to be processed.
 
 <br />
 
