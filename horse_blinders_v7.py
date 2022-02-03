@@ -4,7 +4,7 @@
 #Useful for inputting experimental coding values while only dealing with one data point at a time
 #
 #
-#Project: NPI/Negation Corpus study with Francis Blanchette and Cynthia Lukyanenko
+#Project: NPI/Negation Corpus study with Frances Blanchette and Cynthia Lukyanenko
 #Author: Benjamin Hunt 
 #Date: 12/02/2021
 
